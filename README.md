@@ -5,6 +5,7 @@
 - 📫 How to reach me ... 
 Here My email:mithunmajumdar1996@gmail.com
 Phone Number: 8787618382
+- More Details: https://mithun40.github.io/me/
 
 <!---
 mithun40/mithun40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
