@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mithun40
 - 👀 I’m interested in ... Machine Learning and Deep Learning
 - 🌱 I’m currently learning ... NLP
-- 💞️ I’m looking to collaborate on ... Sentiment Analysis
+- 💞️ I’m looking to collaborate on ... Opinion Mining
 - 📫 How to reach me ... 
 Here My email:mithunmajumdar1996@gmail.com
 Phone Number: 8787618382
